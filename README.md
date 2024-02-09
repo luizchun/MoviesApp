@@ -45,7 +45,3 @@ O MoviesApp Ionic foi desenvolvido utilizando as seguintes tecnologias:
 - Ionic Framework
 - Angular
 - TypeScript
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests para melhorar o projeto.
